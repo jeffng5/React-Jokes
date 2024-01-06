@@ -1,0 +1,28 @@
+div {
+    background-color: cadetblue;
+}
+.fidget {
+padding: 300px;
+position: fixed;
+bottom: -25px;
+
+
+}
+
+h3{
+position: fixed;
+top: 500px;
+left: 530px;
+
+
+}
+
+button {
+    background-color: white;
+}
+
+.trigger {
+    height: 20px;
+    width: 70px;
+
+}

@@ -1,0 +1,29 @@
+.Joke {
+  margin-bottom: 0.75em;
+  padding: 0.2em;
+}
+
+.Joke-locked {
+  background-color: #ccc;
+}
+
+.Joke-votearea {
+  display: inline-block;
+  vertical-align: text-bottom;
+}
+
+.Joke-votearea > * {
+  margin-right: 1em;
+
+}
+.Joke-text {
+  margin-left: 1em;
+  display: inline-block;
+  width: 500px;
+}
+
+button {
+  height: 20px;
+  width: 30px;
+  border-radius: 8px;
+}
