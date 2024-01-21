@@ -22,7 +22,7 @@ function App() {
 if (state===true) {
   return (
   <body>
-  <FidgetSpinner className="fidget" height="380" width= "380"/><h3 className= "backgroundLoading">Loading...</h3>
+  <FidgetSpinner className="fidget" height="380" width= "380"/><h3 className= "backgroundLoading">Loading Jokes...</h3>
 
 </body>
   )
