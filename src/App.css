@@ -26,3 +26,24 @@ button {
     width: 70px;
 
 }
+
+.load {
+    height: 30px;
+    width: 85px;
+
+}
+
+body {
+    background-color: cadetblue;
+}
+
+.backgroundLoading {
+    top: 400px;
+    left: 170px;
+}
+
+.fidget {
+ position: absolute;
+ left: 500px;
+
+}
